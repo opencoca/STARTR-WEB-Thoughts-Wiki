@@ -1,0 +1,56 @@
+/**************************/
+/*   Custom stylesheet    */
+/*    design by OpenCo    */
+/* add to tiddlywiki by   */
+/* creating new tiddle    */
+/* setting type to text   */
+/* and tagging the tiddle */
+/* "$:/tags/Stylesheet"   */
+/*                        */
+/**************************/
+
+:root {
+    --color:hsl(252, 95%, 17%), 100%; /*the base color*/
+    --l:50%; /*the initial lightness*/
+    
+    --color-primary: hsl(var(--color),var(--l));
+    --color-primary-darker: hsl(var(--color),calc(var(--l) - 5%));
+    --color-primary-darkest: hsl(var(--color),calc(var(--l) - 10%)); 
+}
+
+hr {
+    border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+button.tc-tag-label, span.tc-tag-label { 
+    background-color: #DC0A9F !important;
+}
+
+
+/* unvisited link */
+a:link {
+  color: #DC0A9F
+}
+
+/* visited link */
+a:visited {
+  color: #FF85CE
+}
+
+/* mouse over link */
+a:hover {
+  color: #AC075F
+}
+
+/* selected link */
+a:active {
+  color: yellow;
+}
+
+table.tmap-table tr:nth-child(odd), .tc-modal-body table.tmap-config-table tr:nth-child(odd) {
+    background-color: --color-primary;
+}
+
+table.tmap-table tr:nth-child(even), .tc-modal-body table.tmap-config-table tr:nth-child(even) {
+    background-color:  --color-primary-darker;
+}
