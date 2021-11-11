@@ -166,6 +166,33 @@ Not introducing CS means loosing out on a toolbox for critical thinking.
 
 ![](https://source.unsplash.com/603x300.1/?study)
 
+# STEAM Education
+
+##### Tags: #education #learning #school #motivation #love #students
+
+## CHAPTER 1 - Illuminating the Paths to Knowledge
+
+Envision learning a new technology and immediately
+you are flooded with thoughts of how this approach would help - or
+at least contribute - to the solving of the world's problems. To
+some, education is about training a person to be a great cog in the
+wheel of progress; devices like these engines of knowledge are
+essential to that vision.
+
+But different approaches to learning are better suited for
+different types of problems. As the technology of information and
+communication grows, the opportunity for learners to seek answers
+has never been greater. Trends indicate that this rising tide of
+information, coupled with widespread access to information over the
+Internet, presents learners with new challenges and opportunities.
+So greater technology has not necessarily resulted in greater
+learning.
+
+One response to this growing freedom of information is to
+invest time and effort in training educators to share the
+knowledge. While technology is a powerful way to communicate and
+the tools
+
 ## Contributors
 
 ##### Alexander Somma (Lead), Benjamin Douek, and Ken Wildermuth (Co-Leads)
