@@ -12,51 +12,23 @@
 
 ## Contents
 
-* [What is STEAM Education?](#what-is-steam-education)
-  * [The Basics](#the-basics)
-    * [The Positives](#the-positives)
-    * [The Negatives](#the-negatives)
-* [The History of STEAM Education](#the-history-of-steam-education)
-  * [The Past and Future of STEAM Education](#the-past-and-future-of-steam-education)
+
+1. [**Preface**](#preface)
+1. [What is STEAM Education?](#what-is-steam-education)
+1. [**Illuminating the Paths to Knowledge**](#illuminating-the-paths-to-knowledge)
+1. [**The Growing Challenge**](#the-growing-challenge)
+1. [**It's a Destination!**](#its-a-destination)
+1. [**How we expand STEAM Education**](#how-we-foster-steam-education.md)
+
 * [STEAM Education for Kids](#steam-education)
+* [The Basics](#the-basics)
+  * [The Positives](#the-positives)
+  * [The Negatives](#the-negatives)
+* [The History of STEAM Education](#the-history-of-steam-education)
+* [The Future of STEAM Education](#the-future-of-steam-education)
 
-# STEAM Education
 
-### Published
-
-### By:Alexander Somma
-
-##### Tags: goals, drive, students
-
-### Site: <https://www.media.mit.edu/>
-
-## Contents
-
-* [**Preface**](./preface.md)
-* [**1- The Illuminating the Paths to Knowledge**](./1-the-illuminating-the-paths-to-knowledge.md)
-* [**2- The Growing Challenge**](./2-the-growing-challenge.md)
-* [**3- It's a Destination!**](./3-its-a-destination.md)
-* [**4- How we Created STEAM Education**](./4-how-we-created-steam-education.md)
-
-# STEAM Education
-
-### Published
-
-### By:Alexander Somma
-
-##### Tags: goals, drive, students
-
-### Site: <https://www.media.mit.edu/>
-
-## Contents
-
-### Chapter 1
-
-## CHAPTER 1
-
-### Introduction
-
-The diagrammed process was for training students to generate a set of goal-oriented assessment items, which were then rated by students.
+## CHAPTER 1 
 
 * * *
 
@@ -74,45 +46,17 @@ In this dissertation, I discuss how to use patterns to develop goal-oriented ass
 
 By creating a template for developing items, we can have a framework for generating items.
 
-## PREFACE
+## Preface
 
 When I started in edutaction 15 years ago, I had no idea I would become so passionate about the field. I started teaching because I knew I wanted to teach, but wasn't counting on focusing on building tools for students of all ages.
 
 I stumbled into teaching, thanks to a very un-productive application process. (Just enough to say I was a good candidate, and not enough for the McGill to choose me.) In the end I took a job teaching at a small private school with some amazing professors.
-
-I realized quickly was the student population that year was very diverse, with students coming in with differing definitions of "college readiness." So instead of developing great lessons for a test that would just lead to application rejections, I started designing lessons to achieve an improved level of world readiness.
-
-# STEAM Education
-
-### Published
-
-### By:Alexander Somma
-
-##### Tags: goals, drive, students
-
-### Site: <https://www.media.mit.edu/>
-
-## Subtitle
-
-### Three ways to integrate STEAM into a classroom
-
-## Preface
 
 I completed my first Ed-Tech course at Concordia in the mid 2000s. Along with the usual education topics I also focused on learning how to write C, data structures, algorithms, and all the typical things Computer Science students should know. What really stood out for me about the Explorations course was the emphasis on Human-Computer Interaction. Every week we would have the other three computer courses visit our class and present to us on their project. Many students would send us a link to a website they were working on, or a prototype that they had made, and we would guide them through the necessary world of web technologies. Students would come in and out of my office all day long, dragging me away as they worked on an idea: prototyping, designing, and finally writing code.
 
 Fast-forward and I am the cofounder of Robot in a Can, this time in the MIT Extension School. I am in a small group with five other developers, all of us hoping to work our way into education either through online courses (such as MOOCs), or through teaching high school students. We have settled on a vision for Education, and we aim to implement it
 
 # Integrate STEAM into the elementry classroom
-
-### Published
-
-### By:Alexander Somma
-
-##### Tags: goals, drive, students
-
-### Site: <https://www.media.mit.edu/>
-
-## Intro
 
 Replace the projected videos with STEAM-based child-appropriate videos
 
@@ -140,6 +84,11 @@ Replace the projected videos with STEAM-based child-appropriate videos
   * ![](https://source.unsplash.com/603x300/?study)
 
 Guidelines for a room of 100 students.
+
+
+We are good at doing what we know how to do. We are very good at mess, and we are very bad at learning how to do new things
+
+The education system is based on this situation. The education system is in essence a system of incentivized repetition of routine. There are a few reasons to this:
 
 Alex and Ben have experience teaching k-12 and college-level students, and would like to share their insights and advice with you.
 
@@ -192,6 +141,26 @@ One response to this growing freedom of information is to
 invest time and effort in training educators to share the
 knowledge. While technology is a powerful way to communicate and
 the tools
+
+## Chapter 2 How we expand STEAM Education
+
+Simultaneously we expandSTEAM with non-STEM 'problem spaces' as well as the 'Hard C' (Math, Science, Computer Science, Engineering, etc.) subject areas. 
+
+While we work on expanding STEAM education and education in general, we expect and expect to enrich the existing educational pipeline of STEM students.
+
+| How we get started| |
+|---|---|
+
+    1. Through our custom learning materials
+    2. We provide dedicated resources to our learners, allowing them to engage in projects, and to learn and grow
+    3. We engage them in informal learning
+    4. We provide workshops
+    5. We connect students to STEM education and career pathways
+    6. We provide 'STEAM Activity Days' for teachers and other K-12 educators
+    7. We deepen understanding of the learnings by
+
+We talk about *"letting people know what they don't know"*. The aim is to provide an enriching experience for the students when learning works "under the hood". 
+
 
 ## Contributors
 
