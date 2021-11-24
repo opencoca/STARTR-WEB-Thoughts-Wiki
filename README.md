@@ -1,2 +1,2 @@
 # Thoughts-Wiki
-a non-linear personal web notebook
+[Thoughts](http://thoughts.openco.ca/) is non-linear personal web notebook.
